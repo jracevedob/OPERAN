@@ -5,7 +5,7 @@
 
 # OPERAN
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/OPERAN)](https://github.com/jracevedob/OPERAN/blob/main/LICENSE)
-[![Build Status](https://github.com//jracevedob/OPERAN/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/OPERAN/actions)
+[![Build Status](https://github.com//jracevedob/OPERAN/actions/workflows/blank.yml/badge.svg)](https://github.com//jracevedob/OPERAN/actions)
 [![Documentation Status](https://readthedocs.org/projects/post-shannon-sdr/badge/?version=latest)](https://post-shannon-sdr.readthedocs.io/en/latest/?badge=latest)
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/OPERAN/total.svg)]()
 
