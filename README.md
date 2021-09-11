@@ -10,3 +10,21 @@
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/OPERAN/total.svg)]()
 
 This repository contains the two different algorithms to synchronize the data path of the up- and downlink of 5G Radio Access Networks
+
+
+## Contributing
+
+This project exists thanks to all people who contribute.
+The [list](./CONTRIBUTORS) of all contributors.
+
+## License
+
+This project is licensed under the [MIT license](./LICENSE).
+
+## Contact
+
+* **Javier Acevedo** - *Contributor and Project Maintainer* javier.acevedo@tu-dresden.de
+
+## Acknowledgements
+
+We are really grateful to the project of the TU Dresden and Prof. Frank H. P. Fitzek for their support in the realization of this initiative.
