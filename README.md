@@ -28,3 +28,6 @@ This project is licensed under the [MIT license](./LICENSE).
 ## Acknowledgements
 
 We are really grateful to the project of the TU Dresden and Prof. Frank H. P. Fitzek for their support in the realization of this initiative.
+
+This work has been partly funded by the German Federal Ministry for Economic Affairs and Climate Action  on the basis of a decision by the 
+German Bundestag in the frame of the project 5G-OPERA (01MJ22008A).
